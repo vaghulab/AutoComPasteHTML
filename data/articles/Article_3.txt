@@ -1,17 +1,11 @@
-What is ampere ? Unit of electrical current.
+Canada is a country in North America consisting of 10 provinces and 3 territories. Located in the northern part of the continent, it extends from the Atlantic to the Pacific and northward into the Arctic Ocean. 
 
-What is amplifier ? A circuit that increases the voltage, current, or power of a signal.
+At 9.98 million square kilometers in total, Canada is the world's second-largest country by total area, and its common border with the United States is the world's longest land border shared by the same two countries.
 
-What is amplitude ? Magnitude or size of a signal voltage or current.
+The land that is now Canada has been inhabited for millennia by various Aboriginal peoples. Beginning in the late 15th century, British and French colonial expeditions explored, and later settled, the region's Atlantic coast. 
 
-What is analog ? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels.
+France ceded nearly all of its colonies in North America to the United Kingdom in 1763 after the French and Indian War, which was essentially the North American theatre of the Seven Years' War. The population grew steadily in subsequent decades, the territory was explored and additional self-governing Crown colonies were established. 
 
-What is anode ? The positive electrode or terminal of a device. The "P" material of a diode.
+On July 1, 1867, three colonies federated, forming a federal dominion that established Canada. 
 
-What is antenna, receiving ? A device that converts a radiated electromagnetic wave into an electrical wave.
-
-What is apparent power ? Power attained in an AC circuit as a product of effective voltage and current which reach their peak at different times.
-
-What is armature ? The rotating or moving component of a magnetic circuit.
-
-What is armstrong oscillator ? An oscillator that uses an isolation transformer to achieve positive feedback from output to input.
+Canada is a federal parliamentary democracy and a constitutional monarchy, with Queen Elizabeth II as its head of state. The country is officially bilingual at the federal level. It is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many countries, with a population of approximately 35 million as of December 2012.

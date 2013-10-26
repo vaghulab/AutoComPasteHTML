@@ -1,13 +1,11 @@
-What is bandwidth ? Width of the band of frequencies between the half power points.
+Sachin Ramesh Tendulkar is an Indian cricketer widely acknowledged as the greatest batsman of his generation. Born in Mumbai, he took up cricket at age of eleven, made his test debut against Pakistan at just sixteen years old, and went on to represent Mumbai domestically and India internationally for more than twenty years. 
 
-What is barrier potential ? The natural difference of potential that exists across a forward biased pn junction.
+He retired from the Indian Premier League in May 2013 and has announced that he will retire from the sport in November 2013 after playing his two-hundredth test match, against the West Indies in Mumbai's Wankhede Stadium.
 
-What is base biasing ? A method of biasing a BJT in which the bias voltage is supplied to the base by means of a resistor.
+He is the first player to score one hundred international centuries, the first player to score a double century in a One Day International, and thus far the only to complete 34,000 runs in international cricket.
 
-What is battery ? A DC voltage source containing two or more cells that convert chemical energy to electrical energy.
+In 2002, Wisden Cricketers' Almanack ranked him the second greatest Test batsman of all time, behind Don Bradman, and the second greatest one-day-international (ODI) batsman of all time, behind Viv Richards.
 
-What is binary ? A number system having only two symbols, 0 and 1. A base 2 number system.
+Tendulkar was a part of the 2011 Cricket World Cup winning Indian team in the later part of his career, his first such win in six World Cup appearances for India. He was also the recipient of Player of the Tournament award of the 2003 Cricket World Cup held in South Africa. 
 
-What is bipolar junction transistor ? (BJT), A three terminal device in which emitter to collector current is controlled by base current.
-
-What is bistable multivibrator ? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch.
+In October 2013, he became the only Indian cricketer to be named in an all-time Test World XI to mark the 150th anniversary of Wisden Cricketers' Almanack.
