@@ -77,6 +77,28 @@ var copyEvent = function(e) {
 
 }
 
+var nextTask = function(e) {
+    console.log(e);
+
+    // reset the z-order of the windows
+    resetZ_order();
+
+    // remove highlight text
+    removeHighlightText();
+
+    // highlights text in all windows that has the same phrasing in the stimuli
+    highlightText(getCurrentStimuli());
+
+    // resets the data in textarea
+    resetTextArea();
+
+    //
+}
+
+var dataSaved = function(e) {
+    console.log(e);
+}
+
 
 /*
 function mouseEnter(e) {

@@ -28,6 +28,24 @@ $realdata = "";
 //var_dump($_POST);
 //var_dump($_COOKIE);
 
+$data = json_decode($value, true);
+
+foreach ($data["data"] as $k => $v) {
+	$text = "";
+	$val = $v["data"];
+	foreach ($val as $x=> $y) {
+		if (is_array($y)) {
+			foreach ($y as $w) {
+				$text = $text.$w."; ";
+			}
+		} else {
+			$word = str_replace("\n", "", str_replace("\r", "", $y));
+			$text = $text.$word."; ";
+		}
+	}
+	$realdata = $realdata.$text."\n";
+}
+
 if (strcmp("acp", $interface)==0) {
     $data = json_decode($value, true);
 
